@@ -1,4 +1,4 @@
-# Complier
+# Complier CST8152
 compiler in C language for platypus language. 
 
 Consists of 3 main Components Buffer,Scanner, Parser
